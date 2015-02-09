@@ -1,0 +1,13 @@
+
+nom|Gagné
+prenom|Marc-André
+sexe|homme
+adresse|103 rue Blizzard
+ville|St-Laurent
+courriel|123@hotmail.com
+nom|DesManchots
+prenom|Yvan
+sexe|homme
+adresse|123 des Oblats
+ville|St-peupu
+courriel|yvan@cll.ca

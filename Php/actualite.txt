@@ -1,0 +1,6 @@
+<p>
+<img src="../images/actualite.png" alt="Actualité" style="width:304px;height:228px;float:right;">
+Une actualité est généralement une information récente, communiquée par les médias. C'est également tout ce qui se passe aujourd'hui même ou tout simplement une nouveauté. Au sens strict, l'actualité est l'état de ce qui est actuel. <br/><br/>
+
+On emploie aussi le terme pour parler de l'actualité d'une idée, d'une doctrine ou d'un système de pensée.
+</p>

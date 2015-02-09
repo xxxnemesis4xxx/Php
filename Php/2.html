@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Laboratoire 3 - Ex2</title>
+	</head>
+	<body>
+		<form method="post" action="2.php" id="form">
+			<p>
+				Votre nom :<br/>
+				<input type="text" name="nom" size="40" required title="Le champ est obligatoire"/><br/>
+				Votre prénom : <br/>
+				<input type="text" name="prenom" size="40" required title="Le champ est obligatoire"/> <br/>
+				Votre sexe :  <br/>
+				<input type="radio" name="sexe" value="homme" checked>Homme
+				<input type="radio" name="sexe" value="femme">Femme <br/>
+				Choisir votre intérêt parmi la liste suivante : <br/>
+				<select name="selection">
+					<option value="sport">1. Sport</option>
+					<option value="actualite">2. Actualité</option>
+					<option value="finance">3. Finance</option>
+					<option value="meteo">4. Météo</option>
+				</select>
+		</p><br/>
+			<input type="submit" name="Submit" value="Envoyer">
+		</form>
+	</body>
+</html>

@@ -1,0 +1,8 @@
+<p>
+<img src="../images/meteo.png" alt="Météo" style="width:304px;height:228px;float:right;">
+La météorologie a pour objet l'étude des phénomènes atmosphériques tels que les nuages, les précipitations ou le vent dans le but de comprendre comment ils se forment et évoluent en fonction des paramètres mesurés tels que les pression, la température et l'humidité. Le mot vient du grec antique où meteor désigne les particules en suspension dans l'atmosphère et logos veut dire discours ou connaissance. <br/><br/>
+
+C'est une discipline qui traite principalement de la mécanique des fluides et de la thermodynamique mais qui fait usage de différentes autres branches de la physique, de la chimie et des mathématiques. Purement descriptive à l'origine, la météorologie est devenue un lieu d'application de ces disciplines. Pour ce faire elle doit s'appuyer sur un réseau cohérent d'observations : le premier du genre -qui concerne un territoire multinational étendu- apparaît en 1854, sous la direction du français Le Verrier qui établit un réseau européen de données atmosphériques et fonctionne de manière opérationnelle dès 1856.<br/><br/>
+
+La météorologie moderne permet d'établir des prévisions de l'évolution du temps en s'appuyant sur des modèles mathématiques à court comme à long terme. La météorologie a des applications dans des domaines très divers comme les besoins militaires, la production d'énergie, les transports (aériens, maritimes et terrestres), l'agriculture, la médecine, la construction, la photographie aérienne ou le cinéma. Elle est également appliquée pour la prévision de la qualité de l'air.
+</p>

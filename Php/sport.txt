@@ -1,0 +1,12 @@
+<p>
+<img src="../images/sport.png" alt="Sport" style="width:304px;height:228px;float:right;">
+Le terme de « sport » a pour racine le mot de vieux français desport qui signifie « divertissement, plaisir physique ou de l'esprit ». En traversant la Manche, desport se mue en « sport » et évacue de son champ la notion générale de loisirs pour se concentrer sur les seules activités physiques. La langue allemande admet le terme « sport » et sa définition anglaise en 1831 ; la France en fait usage pour la première fois dès 1828. Le sport, contrairement au terme d'esport, exclut les jeux de société ou jeux de l'esprit qui étaient très pratiqués en France à partir du 13e siècle. La frontière entre jeux et sports n'est pourtant pas très claire. La Fédération française des échecs fondée en 1921 reçoit ainsi un agrément sportif du Ministère de la jeunesse et des sports en 2000, mais uniquement parce qu'elle était une fédération « associée » au CNOSF. Certaines pratiques traditionnelles posent également problème : sport ou jeu ? La question reste encore ouverte.<br/><br/>
+
+Le sport moderne se définit par quatre éléments indispensables : <br/><br/>
+
+- La mise en œuvre d'une ou plusieurs qualités physiques : activités d'endurance, de résistance, de force, de coordination, d'adresse, de souplesse, etc. <br/>
+- Une activité institutionnalisée, ses règles tendent à être identiques pour l'ensemble de la planète <br/>
+- Une pratique majoritairement orientée vers la compétition <br/>
+- Une pratique fédérée (sous la tutelle d'une fédération sportive) <br/><br/>
+Ces piliers qui mettent surtout en avant l'organisation des différentes disciplines sportives n'excluent nullement les pratiques comme le sport-loisir, le sport-aventure, le sport-santé, le sport scolaire ou l'éducation physique et sportive. Si la compétition est prédominante, il existe toutefois d'autres formes de pratique mettant plutôt en avant le plaisir, la santé, l'éducation ou l'épanouissement.
+</p>
