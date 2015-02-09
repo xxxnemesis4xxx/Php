@@ -4,6 +4,24 @@
 		<title>Laboratoire 3 - Ex3 </title>	
 	</head>
 	<body>
-		
+		<h2>Demande d'adhésion au club des penguins</h2>
+		<form method="post" action="3.php">
+		<p>
+				Votre nom :<br/>
+				<input type="text" name="nom" size="40" required title="Le champ est obligatoire"/><br/>
+				Votre prénom : <br/>
+				<input type="text" name="prenom" size="40" required title="Le champ est obligatoire"/> <br/>
+				Votre sexe :  <br/>
+				<input type="radio" name="sexe" value="homme" checked>Homme
+				<input type="radio" name="sexe" value="femme">Femme <br/>
+				Votre adresse : <br/>
+				<input type="text" name="adresse" size="40" required title="Le champ est obligatoire"/> <br/>
+				Ville : <br/>
+				<input type="text" name="ville" size="40" required title="Le champ est obligatoire"/> <br/>
+				Adresse courriel : </br>
+				<input type="email" name="courriel" size="40" required title="Le champ est obligatoire"/> <br/>
+		</p></br>
+			<input type="submit" name="Submit" value="Envoyer">
+		</form>
 	</body>
 </html>
