@@ -1,0 +1,12 @@
+<h2>Sites qui parle de Php</h2>
+<a href="http://php.net/">Site de php</a><br/>
+<a href="http://www.w3schools.com/php/">W3schools</a><br/>
+<a href="http://www.codecademy.com/en/tracks/php">Codeademy</a><br/>
+<a href="http://www.planet-php.net/">Planet-php</a><br/>
+<a href="http://php.iis.net/">Php avec IIS</a>
+<br/>
+<p>Marc-Andre Gagne</p>
+
+
+
+
