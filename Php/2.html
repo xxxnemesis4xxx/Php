@@ -4,23 +4,24 @@
 		<title>Laboratoire 3 - Ex2</title>
 	</head>
 	<body>
-		<form method="post" action="2.php">
+		<form method="post" action="2.php" id="form">
 			<p>
-				Votre nom :
-				<input type="text" name="nom" size="40" style="margin: 0px 0px 0px 21px"/><br/>
-				Votre prénom :
-				<input type="text" name="prenom" size="40"/> <br/>
-				Votre sexe : 
+				Votre nom :<br/>
+				<input type="text" name="nom" size="40" required title="Le champ est obligatoire"/><br/>
+				Votre prénom : <br/>
+				<input type="text" name="prenom" size="40" required title="Le champ est obligatoire"/> <br/>
+				Votre sexe :  <br/>
 				<input type="radio" name="sexe" value="homme" checked>Homme
 				<input type="radio" name="sexe" value="femme">Femme <br/>
-				Choisir votre intérêt parmi la liste suivante : 
-				<select>
+				Choisir votre intérêt parmi la liste suivante : <br/>
+				<select name="selection">
 					<option value="sport">1. Sport</option>
 					<option value="actualite">2. Actualité</option>
 					<option value="finance">3. Finance</option>
 					<option value="meteo">4. Météo</option>
 				</select>
-		</p>
+		</p><br/>
+			<input type="submit" name="Submit" value="Envoyer">
 		</form>
 	</body>
 </html>
