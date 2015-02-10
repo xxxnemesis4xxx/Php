@@ -1,13 +1,35 @@
-
-nom|Gagné
-prenom|Marc-André
+prenom|Test
+nom|123
 sexe|homme
-adresse|103 rue Blizzard
-ville|St-Laurent
-courriel|123@hotmail.com
-nom|DesManchots
-prenom|Yvan
+adresse|Test
+ville|Test
+courriel|Test@hotmail.com
+utilisateur|Test
+motdepasse|Test
+prenom|Marc
+nom|Gagne
+sexe|homme
+adresse|Test
+ville|Test
+courriel|Test@hotmail.com
+utilisateur|Test
+motdepasse|test
+
+prenom|Marc-Andre
+nom|Gagne
+prenom|Jayson
+nom|Gagnon
+sexe|homme
+adresse|100 rue Belanger
+ville|Chibougameau
+courriel|bob123@hotmail.com
+utilisateur|Bob123
+motdepasse|Bob123
+prenom|Jean
+nom|Arache
 sexe|homme
 adresse|123 des Oblats
 ville|St-peupu
-courriel|yvan@cll.ca
+courriel|jean@cll.com
+utilisateur|jean
+motdepasse|mers

@@ -25,7 +25,7 @@ if (file_exists("Lab3phpFichier.txt")) {
 				{
 					echo htmlentities($key) . " : " . htmlentities($value) . "<br/>";
 				}
-				$valeurcookie = $_REQUEST["utilisateur"];
+				$valeurcookie = $_REQUEST["prenom"];
 				setcookie("acookie",$valeurcookie,time() + 86400);
 			} 
 			else {
