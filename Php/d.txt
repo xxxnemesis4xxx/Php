@@ -1,0 +1,1 @@
+<img src="../images/actualite.png" alt="Actualité" style="width:304px;height:228px;float:right;">
