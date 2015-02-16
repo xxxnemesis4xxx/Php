@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> Laboratoire </title>
+	</head>
+	<body>
+		<form method="post" action="upload.php" enctype="multipart/form-data">
+			<p>Quelle fichier voulez-vous me transmettre ?</p>
+				<p>Votre fichier :<br>
+				<input type="hidden" name="MAX_FILE_SIZE" value="1048576">
+				<input type="file" name="fichier"><br><br>
+			</p>
+			<input type="submit" name="Submit" value="Envoyer le fichier">
+		</form>
+	</body>
+</html>
